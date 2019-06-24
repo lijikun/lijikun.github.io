@@ -7,5 +7,5 @@ My [GitHub repos](https://github.com/lijikun?tab=repositories).
 
 
 
-Random [podcasts](/podcasts.md) that I recommend.
+Random [podcasts](/podcasts.md) that I listen to.
 
