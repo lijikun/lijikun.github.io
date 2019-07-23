@@ -5,6 +5,6 @@
   * [FT Alphachat](https://ftalphaville.ft.com/series/Alphachat)
   * [EconTalk](http://www.econtalk.org/)
   * [Planet Money](https://www.npr.org/sections/money/)
-  * [The Naked Scientists](https://www.thenakedscientists.com/)
+  * [Science Talk](https://www.scientificamerican.com/podcast/science-talk/)
   * [Radio Open Source](http://radioopensource.org/)
   
