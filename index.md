@@ -1,8 +1,8 @@
 Welcome to my site!
 
-My [LinkedIn page](https://www.linkedin.com/in/lijikun).
+For a vitae see my [LinkedIn page](https://www.linkedin.com/in/lijikun) (with a list of publications).
 
-My [GitHub repos](https://github.com/lijikun?tab=repositories).
+Also see my [GitHub repos](https://github.com/lijikun?tab=repositories).
 
 
 
