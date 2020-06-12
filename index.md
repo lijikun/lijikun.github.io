@@ -4,10 +4,18 @@ I'm actually a physical chemist working on various multidisciplinary projects. Y
 
 I'm also an amateur computer programmer and an adept Linux afficianado. See my [GitHub repos](https://github.com/lijikun?tab=repositories) and [gists](https://gist.github.com/lijikun/).
 
-I'm also a slow but tenacious runner and a pretty decent Sichuan cook, and therefore an avid podcast listener. I recommend the following podsasts (in no particular order):
+I'm also a slow but tenacious runner and a pretty decent Sichuan cook, and therefore an avid podcast listener. I currently recommend the following podsasts (in no particular order):
 
-- [https://www.swr.de/swr2/musik/musikstueck/swr2-musikstueck-der-woche/-/id=2937886/did=10489542/nid=2937886/1kldwug/index.html](SWR2 Musikstück der Woche)
+- [Musikstück der Woche](https://www.swr.de/swr2/musik/musikstueck/swr2-musikstueck-der-woche/-/id=2937886/did=10489542/nid=2937886/1kldwug/index.html)
 
-- [https://www.revolutionspodcast.com](Revolutions)
+- [Revolutions](https://www.revolutionspodcast.com)
 
-- [https://historyofphilosophy.net](History of Philosophy Without Any Gaps)
+- [History of Philosophy Without Any Gaps](https://historyofphilosophy.net)
+
+- [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
+
+- [Planet Money](https://www.npr.org/sections/money/)
+
+- [Conversations With Tyler](https://medium.com/conversations-with-tyler)
+
+- [Sean Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/)
