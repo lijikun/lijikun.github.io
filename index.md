@@ -13,3 +13,4 @@ I'm also a slow but tenacious runner and a pretty decent Sichuan cook -- thus an
 - [Planet Money](https://www.npr.org/sections/money/)
 - [Conversations With Tyler](https://medium.com/conversations-with-tyler)
 - [Sean Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/)
+- [Science Talk](https://www.scientificamerican.com/podcast/science-talk/)
