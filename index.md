@@ -7,15 +7,9 @@ I'm also an amateur computer programmer and an adept Linux aficianado. See my [G
 I'm also a slow but tenacious runner and a pretty decent Sichuan cook (for which I recommend Fuchsia Dunlop's series of books on Chinese cooking), and therefore an avid podcast listener. I currently recommend the following podsasts (in no particular order):
 
 - [Musikstück der Woche](https://www.swr.de/swr2/musik/musikstueck/swr2-musikstueck-der-woche/-/id=2937886/did=10489542/nid=2937886/1kldwug/index.html)
-
 - [Revolutions](https://www.revolutionspodcast.com)
-
 - [History of Philosophy Without Any Gaps](https://historyofphilosophy.net)
-
 - [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
-
 - [Planet Money](https://www.npr.org/sections/money/)
-
 - [Conversations With Tyler](https://medium.com/conversations-with-tyler)
-
 - [Sean Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/)
