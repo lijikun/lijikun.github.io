@@ -1,3 +1,5 @@
+<title> Jikun Li's Homepage </title>
+
 Welcome to my homepage!
 
 I'm actually a physical chemist working on various multidisciplinary projects. You can see my vitae on [LinkedIn](https://www.linkedin.com/in/lijikun) and a list of publications on [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate). 
