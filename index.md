@@ -2,7 +2,7 @@ Welcome to my homepage!
 
 I'm actually a physical chemist working on various multidisciplinary projects. You can see my vitae on [LinkedIn](https://www.linkedin.com/in/lijikun) and a list of publications on [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate). 
 
-I'm also an amateur computer programmer and an adept Linux aficianado. See my [GitHub repos](https://github.com/lijikun?tab=repositories) and [gists](https://gist.github.com/lijikun/).
+I'm also an amateur computer programmer and an adept Linux aficianado. See my [GitHub repos](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
 
 I'm also a slow but tenacious runner and a pretty decent Sichuan cook -- thus an avid podcast listener. I currently recommend the following podcasts (in no particular order):
 
