@@ -1,6 +1,6 @@
 Welcome to my homepage!
 
-I'm actually a physical chemist working on various multidisciplinary projects. You can see my CV on [LinkedIn](https://www.linkedin.com/in/lijikun), and a list of publications on [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate) or [Publons](https://publons.com/researcher/3919241/jikun-li/). 
+I'm actually a physical chemist working on various multidisciplinary projects, working as an assistant professor at the [Institute of Chemistry, Chinese Academy of Sciences (ICCAS)](http://www.iccas.ac.cn). You can see my CV on [LinkedIn](https://www.linkedin.com/in/lijikun), and a list of publications on [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate) or [Publons](https://publons.com/researcher/3919241/jikun-li/). 
 
 I'm also an amateur computer programmer and an adept Linux aficianado. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
 
