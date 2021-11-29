@@ -9,8 +9,8 @@ I'm also a slow but tenacious runner and a pretty decent Sichuan cook -- thus an
 - [Musikstück der Woche](https://www.swr.de/swr2/musik/musikstueck/swr2-musikstueck-der-woche/-/id=2937886/did=10489542/nid=2937886/1kldwug/index.html)
 - [Revolutions](https://www.revolutionspodcast.com)
 - [History of Philosophy Without Any Gaps](https://historyofphilosophy.net)
-- [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
+- [Sean Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/)
 - [Planet Money](https://www.npr.org/sections/money/)
 - [Conversations With Tyler](https://medium.com/conversations-with-tyler)
-- [Sean Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/)
-- [Science Talk](https://www.scientificamerican.com/podcast/science-talk/)
+
+
