@@ -4,7 +4,7 @@ I'm actually a physical chemist working on various multidisciplinary projects, c
 
 I'm also an amateur computer programmer (used to engage in competitive algorithm contests) and an adept Linux aficianado. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
 
-I'm also a slow but tenacious runner and a pretty decent Sichuan cook -- the two hobbies ain't apparently related, but both made me an avid podcast listener as well. I currently recommend the following podcasts (in no particular order):
+I'm also a slow but tenacious runner and a pretty decent Sichuan cook -- the two hobbies ain't apparently related, but both would fit an avid podcast listener. I currently recommend the following podcasts (in no particular order):
 
 - [Musikstück der Woche by SWR2](https://www.swr.de/swr2/musik/musikstueck/swr2-musikstueck-der-woche/-/id=2937886/did=10489542/nid=2937886/1kldwug/index.html)
 - [Revolutions by Mike Duncan](https://www.revolutionspodcast.com)
