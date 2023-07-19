@@ -1,8 +1,8 @@
 Welcome to my homepage!
 
-I am actually a physical chemist with a fairly multidisciplinary background, currently working as an assistant professor at [the Institute of Chemistry, Chinese Academy of Sciences (ICCAS)](http://www.iccas.ac.cn). My ICCAS (in Chinese) webpage is [here](http://jczhao.iccas.ac.cn/68) where you can find position(s) available in my lab. 
+I am actually a physical chemist with a fairly multidisciplinary background, currently working as an assistant professor at [the Institute of Chemistry, Chinese Academy of Sciences (ICCAS)](http://www.iccas.ac.cn). My ICCAS webpage is [here](http://jczhao.iccas.ac.cn/jkli) (in Chinese) where you can find position(s) available in my lab. 
 
-Please also see my Vitae on [LinkedIn](https://www.linkedin.com/in/lijikun), as well as a list of publications on [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate) or [Web of Science](https://www.webofscience.com/wos/author/record/AAZ-7887-2020). 
+Please also see my Vitae on [LinkedIn](https://www.linkedin.com/in/lijikun), as well as a list of publications on [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate) or my [ORCID Record](https://orcid.org/0000-0003-3355-6518)). 
 
 Besides scientific research, I am an amateur computer programmer who used to participate in competitive algorithm contests, and a pretty adept Linux user. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
 
