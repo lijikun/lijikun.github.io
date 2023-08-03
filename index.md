@@ -4,18 +4,18 @@ I am a physical chemist with a multidisciplinary background, currently working a
 
 A list of my publications is available on my [ORCID](https://orcid.org/0000-0003-3355-6518) and [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate) profiles. 
 
+Main research areas:
+ 
+ - Transition metal chemistry: Mechanistic studies of photocatalysts with active centers containing d-block metals.
+ - Radical chemistry: Electronic and atomic transfer processes, dynamics of excitons and carriers in redox-active condensed organic materials.
+ - Magnetic Resonance: Advanced EPR/DNP techniques, and theoretical/computational modeling of relevant magnetic systems.
+
 Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun)):
 
  - 2021-Present : Assistant Professor, CAS Key Laboratory of Photochemistry, ICCAS, Beijing, China
  - 2015-2020: Postdoctoral Researcher in Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA. Advisor: Prof. Yisong Guo
  - 2008-2014: Ph. D. in Biophysics and Computational Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA. Advisor: Prof. Eric Oldfield
  - 2004-2008: B. Sc. in Physics, Yuanpei Pilot Program, Peking University, Beijing, China
-
-Main research areas:
- 
- - Inorganic chemistry: Mechanism of photocatalysts containing active d-block metal centers.
- - Radical chemistry: Electronic and atomic transfer processes in redox-active organic condensed materials.
- - Magnetic Resonance: Advanced EPR/NMR/DNP techniques and theoretical modeling of magnetic systems.
 
 Besides scientific research, I am also an amateur computer programmer in competitive algorithm contests, and an adept Linux user. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
 
