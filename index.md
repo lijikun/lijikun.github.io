@@ -6,9 +6,9 @@ A list of my publications is available on my [ORCID](https://orcid.org/0000-0003
 
 Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun)):
 
- - 2021-Present : Assistant Professor, CAS Key Lab of Photochemistry, ICCAS, Beijing, China
- - 2015-2020: Postdoctoral Researcher, Dept. of Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA (Advisor: Prof. Yisong Guo)
- - 2008-2014: Ph. D. in Biophysics and Computational Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA (Advisor: Prof. Eric Oldfield)
+ - 2021-Present : Assistant Professor, CAS Key Laboratory of Photochemistry, ICCAS, Beijing, China
+ - 2015-2020: Postdoctoral Researcher in Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA. Advisor: Prof. Yisong Guo
+ - 2008-2014: Ph. D. in Biophysics and Computational Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA. Advisor: Prof. Eric Oldfield
  - 2004-2008: B. Sc. in Physics, Yuanpei Pilot Program, Peking University, Beijing, China
 
 Main research areas:
