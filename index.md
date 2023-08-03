@@ -13,9 +13,9 @@ Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun)):
 
 Main research areas:
  
- - Mechanism of photocatalysts containing d-block metal centers.
- - Radical chemistry, electron and atom transfers in redox-active organic condensed materials.
- - Advanced magnetic resonance methodologies and theoretical modeling of magnetic systems.
+ - Inorganic chemistry: Mechanism of photocatalysts containing active d-block metal centers.
+ - Radical chemistry: Electronic and atomic transfer processes in redox-active organic condensed materials.
+ - Magnetic Resonance: Advanced EPR/NMR/DNP techniques and theoretical modeling of magnetic systems.
 
 Besides scientific research, I am also an amateur computer programmer in competitive algorithm contests, and an adept Linux user. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
 
