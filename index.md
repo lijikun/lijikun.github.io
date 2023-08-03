@@ -6,9 +6,9 @@ A list of my publications is available on my [ORCID](https://orcid.org/0000-0003
 
 Main research areas:
  
- - Transition metal chemistry: Mechanistic studies of photocatalysts with active centers containing d-block metals.
- - Radical chemistry: Electronic and atomic transfer processes, dynamics of excitons and carriers in redox-active condensed organic materials.
- - Magnetic Resonance: Advanced EPR/DNP techniques, and theoretical/computational modeling of relevant magnetic systems.
+ - **Transition metal chemistry**: Mechanistic studies of heterogeneous photocatalysts with active centers containing d-block metals.
+ - **Organic radical and semiconductor chemistry**: Electronic and atomic transfer processes, dynamics of excitons and carriers in redox-active condensed organic materials, such as organic heterogeneous photocatalysts, organic semiconductors, and environmental particulate matter.
+ - **Advanced Magnetic Resonance**: Electron Paramagnetic Resonance (EPR) and Dynamic Nuclear Polarization (DNP) techniques, as well as theoretical/computational modeling of relevant magnetic systems.
 
 Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun)):
 
