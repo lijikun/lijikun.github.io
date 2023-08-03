@@ -6,20 +6,20 @@ A list of my publications is available on my [ORCID](https://orcid.org/0000-0003
 
 Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun)):
 
- - 2021-Present : Assistant Professor, CAS Key Lab of Photochemistry, ICCAS
- - 2015-2020: Postdoctoral Researcher, Carnegie Mellon University (Advisor: Prof. Yisong Guo)
- - 2008-2014: Ph. D., Biophysics and Computational Biology, University of Illinois at Urbana-Champaign (Advisor: Prof. Eric Oldfield)
- - 2004-2008: B. Sc., Physics, Yuanpei Pilot Program, Peking University
+ - 2021-Present : Assistant Professor, CAS Key Lab of Photochemistry, ICCAS, Beijing, China
+ - 2015-2020: Postdoctoral Researcher, Dept. of Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA (Advisor: Prof. Yisong Guo)
+ - 2008-2014: Ph. D. in Biophysics and Computational Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA (Advisor: Prof. Eric Oldfield)
+ - 2004-2008: B. Sc. in Physics, Yuanpei Pilot Program, Peking University, Beijing, China
 
 Main research areas:
  
  - Mechanism of photocatalysts containing d-block metal centers.
- - Mechanism of electron and atom transfer in redox-active organic condensed materials.
+ - Radical chemistry, electron and atom transfers in redox-active organic condensed materials.
  - Advanced magnetic resonance methodologies and theoretical modeling of magnetic systems.
 
-Besides scientific research, I am an amateur computer programmer who used to participate in competitive algorithm contests, and a pretty adept Linux user. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
+Besides scientific research, I am also an amateur computer programmer in competitive algorithm contests, and an adept Linux user. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
 
-I am also a slow (but tenacious) runner and a pretty decent cook -- these two hobbies ain't exactly related, but both would fit an avid, multitasking podcast listener. I currently recommend the following podcasts, in no particular order:
+I am also a slow (but tenacious) runner, a pretty decent cook and an avid podcast listener. I currently recommend the following podcasts, in no particular order:
 
 - [Revolutions by Mike Duncan](https://www.revolutionspodcast.com)
 - [History of Philosophy Without Any Gaps by Adam Peterson](https://historyofphilosophy.net)
