@@ -13,8 +13,10 @@ Main research areas:
 Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun)):
 
  - **2021-Present** : Assistant Professor, CAS Key Laboratory of Photochemistry, Institute of Chemistry, Chinese Academy of Sciences, Beijing, China
- - **2015-2020**: Postdoctoral Researcher in Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA. Advisor: Prof. Yisong Guo. Research topic: Non-heme iron enzymes.
- - **2008-2014**: Ph. D. in Biophysics and Computational Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA. Advisor: Prof. Eric Oldfield. Research topic: Spectroscopic studies of isoprenoid biosynthesis.
+ - **2015-2020**: Postdoctoral Researcher in Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA.
+<br/> Advisor: Prof. Yisong Guo. Research topic: Non-heme iron enzymes.
+ - **2008-2014**: Ph. D. in Biophysics and Computational Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA.
+<br/>Advisor: Prof. Eric Oldfield. Research topic: Spectroscopic studies of isoprenoid biosynthesis.
  - **2004-2008**: B. Sc. in Physics, Yuanpei Pilot Program, Peking University, Beijing, China
 
 Besides scientific research, I am also an amateur computer programmer in competitive algorithm contests, and an adept Linux user. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
