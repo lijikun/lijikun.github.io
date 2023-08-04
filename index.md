@@ -26,7 +26,6 @@ I am also a slow (but tenacious) runner, a pretty decent cook and an avid podcas
 - [Revolutions by Mike Duncan](https://www.revolutionspodcast.com)
 - [History of Philosophy Without Any Gaps by Adam Peterson](https://historyofphilosophy.net)
 - [Mindscape Podcast by Sean Carroll](https://www.preposterousuniverse.com/podcast/)
-- [Planet Money by NPR](https://www.npr.org/sections/money/)
 - [Conversations With Tyler by Tyler Cowen](https://medium.com/conversations-with-tyler)
 - [In Our Time by BBC Radio 4](https://www.bbc.co.uk/programmes/b006qykl/episodes/downloads)
 
