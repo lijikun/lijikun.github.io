@@ -1,6 +1,8 @@
 Welcome to my homepage! 我的课题组中文主页见 http://jczhao.iccas.ac.cn/jkli 。
 
-I am a chemist and physicist, currently working as an assistant professor at [the Institute of Chemistry, Chinese Academy of Sciences (ICCAS)](http://www.iccas.ac.cn). A list of publications is available on my [ORCID](https://orcid.org/0000-0003-3355-6518) and [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate) profiles. 
+I am a chemist and physicist, currently working as an assistant professor at [the Institute of Chemistry, Chinese Academy of Sciences (ICCAS)](http://www.iccas.ac.cn). 
+
+An up-to-date list of publications is available on my [ORCID](https://orcid.org/0000-0003-3355-6518) and [Google Scholar](https://scholar.google.com/citations?user=MAgDzgwAAAAJ&view_op=list_works&sortby=pubdate) profiles. 
 
 Main research areas:
  
@@ -17,7 +19,7 @@ Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun). You c
 <br/> Advisor: Prof. Eric Oldfield. Research topic: Spectroscopic studies of isoprenoid biosynthesis.
  - **2004-2008**: B. Sc. in Physics, Yuanpei Pilot Program, Peking University, Beijing, China
 
-Besides scientific research, I also take a interest in computers, including HPC, competitive algorithm contests, and Linux. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
+Besides scientific research, I also take a great interest in computers, including high-performance computing (HPC), competitive algorithm contests, and Linux system engineering. See my [GitHub profile](https://github.com/lijikun) and [gists](https://gist.github.com/lijikun/).
 
 I am also an amateur marathoner, a pretty decent cook, and an avid podcast listener. A few podcasts that I follow, in no particular order:
 
