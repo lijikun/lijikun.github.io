@@ -1,4 +1,4 @@
-Welcome to my homepage! 我的课题组中文主页见 http://jczhao.iccas.ac.cn/jkli 。
+Welcome to my homepage! 我的课题组中文主页见 (http://jczhao.iccas.ac.cn/jkli) 。
 
 I am a chemist and physicist, currently working as an assistant professor at [the Institute of Chemistry, Chinese Academy of Sciences (ICCAS)](http://www.iccas.ac.cn). 
 
