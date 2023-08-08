@@ -12,7 +12,7 @@ Main research areas:
 
 Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun). You can also get in touch from there):
 
- - **2021-Present** : Assistant Professor, CAS Key Laboratory of Photochemistry, Institute of Chemistry, Chinese Academy of Sciences, Beijing, China
+ - **2021-Present** : Assistant Professor, CAS Key Laboratory of Photochemistry, ICCAS, Beijing, China
  - **2015-2020**: Postdoctoral Researcher in Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA.
 <br/> Advisor: Prof. Yisong Guo. Research topic: Non-heme iron enzymes.
  - **2008-2014**: Ph. D. in Biophysics and Computational Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA.
