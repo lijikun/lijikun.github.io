@@ -8,7 +8,7 @@ Main research areas:
  - **Organic radical and semiconductor chemistry in the condensed phase**: We study the electronic and atomic transfer processes, dynamics of excitons and carriers in redox-active condensed organic matter, such as organic heterogeneous photocatalysts, organic semiconductors, and environmental particulate matter.
  - **Advanced magnetic resonance techniques**: We develop and apply experimental techniques for Electron Paramagnetic Resonance (EPR) and Dynamic Nuclear Polarization (DNP) spectroscopies. We also model relevant spin systems by theoretical and computational means.
 
-Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun)):
+Brief vitae (more info at [LinkedIn](https://www.linkedin.com/in/lijikun). You can also get in touch from there):
 
  - **2021-Present** : Assistant Professor, CAS Key Laboratory of Photochemistry, Institute of Chemistry, Chinese Academy of Sciences, Beijing, China
  - **2015-2020**: Postdoctoral Researcher in Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA.
